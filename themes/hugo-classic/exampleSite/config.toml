@@ -1,16 +1,11 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "Classic"
+theme = "hugo-classic"
 googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 enableEmoji = true
 footnotereturnlinkcontents = "↩"
-
-
-[module]
-  [[module.imports]]
-    path = "/Users/srdjanmisic/dropbox/90-99 Professional/96 Personal Website/themes/hugo-classic"
-
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"

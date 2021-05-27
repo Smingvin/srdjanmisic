@@ -7,9 +7,9 @@ title: Home
   src="/images/partywizard.gif"
   alt="Kellen Face">
 
-# Vozeći se gradom kroz špic, Kuer nije mogao da prestane da razmišljao o dogecoin-u
+# Hugo Classic
 
-### It's like looking for butchers
+### For text focused goodness
 
 About twenty years ago Jobs and Wozniak, the founders of Apple, came up with the very strange idea of selling information processing machines for use in the home. But around the same time, Bill Gates and Paul Allen came up with an idea even stranger and more fantastical: **selling computer operating systems**.
 
