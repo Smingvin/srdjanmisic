@@ -1,25 +1,111 @@
 ---
-title: Hacker with Bullhorn
-author: Open-Source
+title: Good luck finding a copywriter in these dark times
+author: Srđan
 date: '2012-04-23'
 categories:
   - Bullhorn
   - Example
 slug: hacker-with-horn
+subtitle: It’s chaos out there — mobs of hungry freelancers are waving and yelling at you, trying to get hired. But actually finding a competent copywriter among them? It’s like searching for a decent surgeon among butchers and barbers.
 ---
 
-Hacker with bullhorn: "Save your money! Accept one of our free tanks! It is invulnerable, and can drive across rocks and swamps at ninety miles an hour while getting a hundred miles to the gallon!"
+Imagine if a loved one had to be cut open, and you had no other choice but to send for the guy who trimmed your sideburns the day before. 
 
-Prospective station wagon buyer: "I know what you say is true...but...er...I don't know how to maintain a tank!"
+If the barber was busy, you’d send for the grinning butcher with the bloody apron. 
 
-Bullhorn: "You don't know how to maintain a station wagon either!"
+You’d just hope they’d show up with a steady hand. Either way it would be hit or miss.
 
-Buyer: "But this dealership has mechanics on staff. If something goes wrong with my station wagon, I can take a day off work, bring it here, and pay them to work on it while I sit in the waiting room for hours, listening to elevator music."
+That’s how it was with surgeons until about the 19 century, and that’s how it is with copywriters today.
 
-Bullhorn: "But if you accept one of our free tanks we will send volunteers to your house to fix it for free while you sleep!"
+From charlatans to masters, anyone can call themselves copywriters regardless of skill or experience.
 
-Buyer: "Stay away from my house, you freak!"
+The barbers among them might generate a few sales before they sweep out the remains of your butchered brand like so much trimmed hair and soiled bandages.
 
-Bullhorn: "But..."
+The best will handle your business with care, wielding the pen with the delicate precision of a modern surgeon.
 
-Buyer: "Can't you see that everyone is buying station wagons?"
+How do you know which is which when looking for a copywriter for your business?
+
+Here’s how.
+
+## A fellow copywriter of higher stature – or even better, an industry legend – went on record saying he was impressed with the writer’s copy
+
+Barber-surgeons operated in dim backrooms, muffling their patients’ screams with bandages. Modern-day surgeons ply their trade openly in well-lit operating theaters as spectators observe them through a looking glass.
+
+Likewise, copywriters who know their stuff work in the open. And they seek out feedback from peers at the pinnacle of their profession.
+
+Wouldn’t it be reassuring to hear an A-list copywriter talk approvingly about your copywriter’s work?
+
+For example, here’s how Amazon best-selling author Kevin Rogers, student of Gary Halbert’s protege John Carlton and his panel of hotshot writers critiqued a Facebook ad written by your candidate copywriter: 
+
+> ![](images/rogers.png)
+>
+> ### “I love the way you phrased these things in ways I haven’t heard before but I knew exactly what you meant.This is gold . . . I’m impressed with the copy”
+>
+>  – Kevin Rogers,  
+> Author of 60-second Sales Hook and founder of Copy Chief
+
+>
+> ![](images/mazza.png)
+>
+> ### I love it… such good copy, as soon as people get into it, they’re gonna be hooked.
+>
+> — Rachel Mazza,  
+> DR copywriter and host of The Business of Writing podcast
+
+Peer approval is good to have, but keep looking. You need harder evidence, such as…
+
+## The copywriter's campaigns have delivered — even without the crutch of an established brand name
+
+Overcoming the resistance of skepticism, lethargy, and price to make a sale from scratch is like extracting a firmly rooted tooth. 
+
+It would be reassuring to know that your candidate copywriter experienced this entire process without anyone working the tooth loose beforehand. 
+
+So look for copywriters who at least once started at zero. You want a copywriter who started with a client no one ever heard of, an empty mailing list, and a household advertising budget...and devised a campaign that raised just short of $300k.
+
+Such a result was surely a big win for the discerning client who chose to work with such a copywriter.
+But then again, maybe the success was achieved despite the copy. There's one way to know.
+
+## The copywriter uses words like smelling salts
+
+Most people go through life half-sedated. Good copy ought to jolt readers back into wide-eyed consciousness like they sniffed a smelling salt.
+
+You can tell the copy worked when readers react to like this:
+
+![](images/jim.png)
+
+![](images/phil.png)
+![](images/joe.png)
+
+All that said, you also need to make sure that...
+
+## The writer doesn’t degrade your brand like a snake-oil salesman
+
+A competent copywriter is a partner who simplifies, sharpens and enhances your message, magnifying the impact your business has on people’s lives.
+
+To accomplish that, the copywriter relies on an arsenal of persuasion techniques, using them as sharp operating instruments.
+
+Good copywriters should know that some of these instruments should never be taken out of the case. The ones that make the copy drip with sleaze.
+
+And the best are honest about the murky origins of the craft.
+
+The pioneer of the profession, every copywriter’s great-grandfather, s Claude Hopkins. He picked up his persuasion techniques from patent medicine sellers of the 1890s -- literal snake-oil salesmen.
+
+Hopkins cleaned up and refined these techniques and applied them to convince Americans to brush their teeth and drink orange juice. But more than a hundred years later you can still follow the trail of rotten apples in the copywriting profession.
+
+Yet, just as modern surgery overcame its dark origins of operating on screaming patients in dim and dirty backrooms, so should your copywriter candidate be a class act, protecting your brand's reputation.
+
+## The copywriter is available
+
+The final criterion to look for in your candidate is that he’s actually available for work. Even an A-lister is of little worth to you if he or she is scheduled for years in advance.
+
+But if you’re reading this perhaps you got a lucky break.
+
+My name is Srđan Mišić. Srđan is pronounced pretty much as Surgeon.
+
+I am your copywriter.
+
+Send me an email and let’s see if we can dissect your currently-running copy to score some quick wins for your business. 
+
+Send inquiries to: supersrdjan (at) gmail.com
+
+
