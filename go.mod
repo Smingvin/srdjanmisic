@@ -1,3 +1,3 @@
-module classic
+module typographical-hugo
 
 go 1.16

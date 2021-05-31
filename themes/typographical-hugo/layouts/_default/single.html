@@ -1,0 +1,15 @@
+{{ define "main" }}
+
+<main>
+    <div class="post">
+        {{ partial "single/title.html" . }}
+
+        {{ partial "single/header.html" . }}
+
+        {{ $footnoteReturnLink := (printf "${1}%s${2}" "↥") }}
+        
+        {{ .Content | replaceRE "(<a (?:.*) class=\"footnote-backref\" (?:.*)>)(?:.*)(</a>)" $footnoteReturnLink | safeHTML }}
+    </div>
+</main>
+
+{{ end }}

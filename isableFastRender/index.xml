@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Srđan Mišić</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in Home on Srđan Mišić</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The revolution will be complete when the language is perfect</title>
+      <link>//localhost:1313/posts/language-perfect/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/language-perfect/</guid>
+      <description>He moved over to the window Since about that time, war had been literally continuous, though strictly speaking it had not always been the same war. For several months during his childhood there had been confused street fighting in London itself, some of which he remembered vividly.
+Inside the flat a fruity voice was reading out a list of figures which had something to do with the production of pig iron.</description>
+    </item>
+    
+    <item>
+      <title>Sanity is not statistical</title>
+      <link>//localhost:1313/posts/sanity-not-statistical/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/sanity-not-statistical/</guid>
+      <description>There was no way of knowing whose version would finally be adopted Once again he glanced at his rival in the opposite cubicle. Something seemed to tell him with certainty that Tillotson was busy on the same job as himself. There was no way of knowing whose version would finally be adopted, but he felt a profound conviction that it would be his own
+Mare torrentur Mare torrentur tenuerunt Iovemque crudelis erat non manuque nullaque Pyreneus, evocet pectus, nube.</description>
+    </item>
+    
+    <item>
+      <title>It&#39;s a beautiful thing, the destruction of words</title>
+      <link>//localhost:1313/posts/destruction-of-words/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/destruction-of-words/</guid>
+      <description>He moved over to the window Lorem markdownum comes; pro est modo famulus, quo quod neu manibus aether his nomine, Aurora, voce. Ipse virga res vidit profanis vocatos, quod vestigia cineres, dum silva in vapor. Tendite caelestibus quam, sub inplet prole eveniet superi rus proles venenis potestas Tereo pluribus sunto.
+Perque cessisse, hoc tum auras sinuosa. Pressant nec vinci primoque quoque funibus est: et tempore vetitorum? Coercet tantum adsensibus religata protinus venturas et Achilli, nat iam cum deque.</description>
+    </item>
+    
+    <item>
+      <title>Markdown Guide (modified)</title>
+      <link>//localhost:1313/post/2018/08/30/markdown-guide-modified/</link>
+      <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/post/2018/08/30/markdown-guide-modified/</guid>
+      <description>An h1 header Paragraphs are separated by a blank line.
+2nd paragraph. Italic, bold, and monospace. Itemized lists look like:
+ this one that one the other one  Note that &amp;mdash; not considering the asterisk &amp;mdash; the actual text content starts at 4-columns in.
+ Block quotes are written like so.
+They can span multiple paragraphs, if you like.
+ Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex.</description>
+    </item>
+    
+    <item>
+      <title>Hacker with Bullhorn</title>
+      <link>//localhost:1313/post/2012/04/23/hacker-with-horn/</link>
+      <pubDate>Mon, 23 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/post/2012/04/23/hacker-with-horn/</guid>
+      <description>Hacker with bullhorn: &amp;ldquo;Save your money! Accept one of our free tanks! It is invulnerable, and can drive across rocks and swamps at ninety miles an hour while getting a hundred miles to the gallon!&amp;rdquo;
+Prospective station wagon buyer: &amp;ldquo;I know what you say is true&amp;hellip;but&amp;hellip;er&amp;hellip;I don&amp;rsquo;t know how to maintain a tank!&amp;rdquo;
+Bullhorn: &amp;ldquo;You don&amp;rsquo;t know how to maintain a station wagon either!&amp;rdquo;
+Buyer: &amp;ldquo;But this dealership has mechanics on staff.</description>
+    </item>
+    
+    <item>
+      <title>Command Line Awesomeness</title>
+      <link>//localhost:1313/post/2012/03/12/command-line-awesomeness/</link>
+      <pubDate>Mon, 12 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/post/2012/03/12/command-line-awesomeness/</guid>
+      <description>This crud is called HTML (HyperText Markup Language) and it is basically a very simple programming language instructing your web browser how to draw a page on a screen. Anyone can learn HTML and many people do. The important thing is that no matter what splendid multimedia web pages they might represent, HTML files are just telegrams.
+ When Ronald Reagan was a radio announcer, he used to call baseball games by reading the terse descriptions that trickled in over the telegraph wire and were printed out on a paper tape.</description>
+    </item>
+    
+    <item>
+      <title>Juicy Code</title>
+      <link>//localhost:1313/post/2012/01/23/juicy-code/</link>
+      <pubDate>Mon, 23 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/post/2012/01/23/juicy-code/</guid>
+      <description>Check out this JUICY! code:
+def with_value_from_database(value) self.class.from_database(name, value, type) end def with_cast_value(value) self.class.with_cast_value(name, value, type) end def with_type(type) if changed_in_place? with_value_from_user(value).with_type(type) else self.class.new(name, value_before_type_cast, type, original_attribute) end end </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/pages/about/</guid>
+      <description>Contra vagos Lorem markdownum notam si lintea meque certa en meumque illis, diu fatigant, nec praedae concustodita arcet. Paviunt castris cur errat ventis causa! Silvas sine satis vocat praedam moverat, precor, non sola bovis neque mihi. Primum utilis nympham, et certus amplexas Deiphobum palmis credas ambo, nec.
+ Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit adfusique imis amplexus. Agmina per fabricator mittere Erymanthon habetque tot.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,12 +1,14 @@
+
 {{ partial "header.html" . }}
 
 <div class="content-wrapper">
 {{if not .IsHome }}
+
   <h1>{{ .Title | markdownify }}</h1>
   {{ end }}
 
+  <main> 
   {{ .Content }}
-
   <ul>
      {{ $pages := .Pages }}
      {{ if .IsHome }}{{ $pages = .Site.RegularPages }}{{ end }}
@@ -17,5 +19,6 @@
      </li>
      {{ end }}
    </ul>
+  </main>
 </div>
 {{ partial "footer.html" . }}
