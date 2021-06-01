@@ -1,7 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "Srđan Mišić"
-googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 enableEmoji = true
 footnotereturnlinkcontents = "↩"
@@ -36,10 +35,4 @@ publishDir = "public"
     description = "Personal website of Srđan Mišić."
     footer = "Get in touch: supersrdjan (at) gmail.com"
     custom_css = ["css/theme-override.css"]
-
-# If you want to use Fathom (https://usefathom.com) for analytics, add this section
-[params.fathomAnalytics]
-    siteID = "ABCDE"
-    # Default value is cdn.usefathom.com, overwrite this if you are self-hosting
-    serverURL = "analytics.example.com"
 
