@@ -5,6 +5,9 @@ googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 enableEmoji = true
 footnotereturnlinkcontents = "↩"
+publishDir = "public"
+
+
 [module]
   [[module.imports]]
     path = "/Users/srdjanmisic/dropbox/90-99 Professional/96 Personal Website/themes/typographical-hugo"
