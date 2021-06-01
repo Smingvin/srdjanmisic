@@ -5,8 +5,6 @@ googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 enableEmoji = true
 footnotereturnlinkcontents = "↩"
-
-
 [module]
   [[module.imports]]
     path = "/Users/srdjanmisic/dropbox/90-99 Professional/96 Personal Website/themes/typographical-hugo"
@@ -26,6 +24,10 @@ footnotereturnlinkcontents = "↩"
 [[menu.feed]]
     name = "Subscribe"
     url = "/index.xml"
+
+
+[params.dropCap]
+  enable = true
 
 [params]
     description = "Personal website of Srđan Mišić."

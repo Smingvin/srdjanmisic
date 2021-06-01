@@ -8,6 +8,7 @@ categories:
 slug: hacker-with-horn
 subtitle: It’s chaos out there — mobs of hungry freelancers are waving and yelling at you, trying to get hired. But actually finding a competent copywriter among them? It’s like searching for a decent surgeon among butchers and barbers.
 ---
+
 Imagine if a loved one had to be cut open, and you had no other choice but to send for the guy who trimmed your sideburns the day before. If the barber was busy, you’d send for the grinning butcher with the bloody apron. Either way, it was awfully risky.
 
 That’s how it was with surgeons until about the 19 century, and that’s how it is with copywriters today.
