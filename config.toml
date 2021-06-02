@@ -9,7 +9,7 @@ publishDir = "public"
 
 [module]
   [[module.imports]]
-    path = "github.com/Smingvin/srdjanmisic/themes/typographical-hugo"
+    path = "https://github.com/Smingvin/srdjanmisic/tree/main/themes/typographical-hugo"
 
 
 [permalinks]
