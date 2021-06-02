@@ -7,11 +7,6 @@ footnotereturnlinkcontents = "↩"
 publishDir = "public"
 
 
-[module]
-  [[module.imports]]
-    path = "github.com/Smingvin/srdjanmisic/tree/main/themes/typographical-hugo"
-
-
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
 
