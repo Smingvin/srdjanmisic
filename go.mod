@@ -1,3 +1,3 @@
-module github.com/Smingvin/srdjanmisic/tree/main/themes/typographical-hugo
+module github.com/Smingvin/srdjanmisic
 
 go 1.16
