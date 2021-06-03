@@ -18,7 +18,9 @@ Choose poorly, and your writer may generate a few sales before sweeping out the 
 
 Choose wisely, and your writer will help inspire a loyal following of customers who know, like, and trust you.
 
-Here's five things to look for when hiring your copywriter.
+But how can you know?
+
+Here's how.
 {{<sidenote>}} SPOILER ALERT: I am about to pitch myself, but not exclusively. {{< /sidenote >}} 
 
 ## 1) Copywriter has some sort of peer approval
