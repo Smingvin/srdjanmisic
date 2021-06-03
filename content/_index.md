@@ -14,8 +14,6 @@ That’s how it was with surgeons throughout the middle ages, and that’s how i
 
 > **Anyone, regardless of skill or experience, can call themself a copywriter. Finding a competent one among them is like searching for a decent surgeon among butchers and barbers.**
 
-Whenever you're out to hire a copywriter, you have to face a risky choice.
-
 Choose poorly, and your writer may generate a few sales before sweeping out the remains of your butchered brand like so much trimmed hair and soiled bandages.
 
 Choose wisely, and your writer will help inspire a loyal following of customers who know, like, and trust you.
