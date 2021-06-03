@@ -31,18 +31,18 @@ Likewise, copywriters who know their stuff work in the open. They seek out feedb
 
 For example, here’s how Amazon best-selling author Kevin Rogers (student of Gary Halbert’s protege John Carlton) and his panel of hotshot writers critiqued a Facebook ad written by your candidate copywriter: 
 
-> ![](/images/rogers.png)
 >
 > # **I love the way you phrased these things in ways I haven’t heard before but I knew exactly what you meant.This is gold . . . I’m impressed with the copy**
 >
+> ![](/images/rogers.png)  
 >  – Kevin Rogers,  
 > Author of 60-second Sales Hook and founder of Copy Chief
 
 >
-> ![](/images/mazza.png)
 >
 > # **I love it… such good copy, as soon as people get into it, they’re gonna be hooked.**
 >
+> ![](/images/mazza.png)  
 > — Rachel Mazza,  
 > DR copywriter and host of The Business of Writing podcast
 
