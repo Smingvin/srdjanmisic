@@ -10,7 +10,7 @@ subtitle: Most of us don't know what we're doing.
 
 Imagine if a loved one had to be cut open, and you had no other choice but to send for the guy who trimmed your sideburns the day before. If the barber was busy, you’d send for the grinning butcher with the bloody apron. Awful risk either way.
 
-That’s how it was with surgeons until about the 19 century, and that’s how it is with copywriters today.
+That’s how it was with surgeons throughout the middle ages, and that’s how it is with copywriters today.
 
 > **Anyone, regardless of skill or experience, can call themself a copywriter. Finding a competent one among them is like searching for a decent surgeon among butchers and barbers.**
 
