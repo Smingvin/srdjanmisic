@@ -30,4 +30,4 @@ publishDir = "public"
     description = "Personal website of Srđan Mišić."
     footer = "Get in touch: supersrdjan (at) gmail.com"
     custom_css = ["css/theme-override.css"]
-
+    accentColour = "#9be5aa"
