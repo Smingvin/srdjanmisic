@@ -34,7 +34,7 @@ For example, here’s how Amazon best-selling author Kevin Rogers (student of Ga
 >
 > # **I love the way you phrased these things in ways I haven’t heard before but I knew exactly what you meant.This is gold . . . I’m impressed with the copy**
 >
-> ![](/images/rogers.png)  
+> ![](/images/rogers.png)
 >  – Kevin Rogers,  
 > Author of 60-second Sales Hook and founder of Copy Chief
 
@@ -42,7 +42,7 @@ For example, here’s how Amazon best-selling author Kevin Rogers (student of Ga
 >
 > # **I love it… such good copy, as soon as people get into it, they’re gonna be hooked.**
 >
-> ![](/images/mazza.png)  
+> ![](/images/mazza.png)
 > — Rachel Mazza,  
 > DR copywriter and host of The Business of Writing podcast
 
