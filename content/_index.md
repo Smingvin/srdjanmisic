@@ -12,16 +12,16 @@ Imagine if a loved one had to be cut open, and you had no other choice but to se
 
 That’s how it was with surgeons throughout the middle ages, and that’s how it is with copywriters today.
 
-> **Anyone, regardless of skill or experience, can call themself a copywriter. Finding a competent one among them is like searching for a decent surgeon among butchers and barbers.**
+Anyone, regardless of skill or experience, can call themself a copywriter. Finding a competent one among them is like searching for a decent surgeon among butchers and barbers.
 
 Choose poorly, and your writer may generate a few sales before sweeping out the remains of your butchered brand like so much trimmed hair and soiled bandages.
 
 Choose wisely, and your writer will help inspire a loyal following of customers who know, like, and trust you.
 
-But how can you know?
+So how can you tell which is which?
 
 Here's how.
-{{<sidenote>}} SPOILER ALERT: I am about to pitch myself, but not exclusively. {{< /sidenote >}} 
+{{<sidenote>}} SPOILER ALERT: I am about to pitch myself. {{< /sidenote >}} 
 
 ## 1) Copywriter has some sort of peer approval
 
@@ -33,7 +33,7 @@ For example, here’s how Amazon best-selling author Kevin Rogers (student of Ga
 
 > ![](/images/rogers.png)
 >
-> **I love the way you phrased these things in ways I haven’t heard before but I knew exactly what you meant. This is gold . . . I’m impressed with the copy**
+> I love the way you phrased these things in ways I haven’t heard before but I knew exactly what you meant. This is gold . . . I’m impressed with the copy.
 >
 >  – Kevin Rogers,  
 > Author of 60-second Sales Hook and founder of Copy Chief
@@ -41,7 +41,7 @@ For example, here’s how Amazon best-selling author Kevin Rogers (student of Ga
 >
 > ![](/images/mazza.png)
 >
-> **I love it… such good copy, as soon as people get into it, they’re gonna be hooked.**
+> I love it… such good copy, as soon as people get into it, they’re gonna be hooked.
 >
 > — Rachel Mazza,  
 > DR copywriter and host of The Business of Writing podcast
@@ -55,8 +55,10 @@ Overcoming the resistance of skepticism, lethargy, and price to make a sale from
 It would be reassuring to know that your candidate copywriter experienced this entire process without anyone working the tooth loose beforehand. 
 
 So look for copywriters who at least once started at zero. You want a copywriter who started with a client no one ever heard of, an empty mailing list, and a household advertising budget...and devised a campaign that raised just short of $300k.
+{{<sidenote>}} It was a Kickstarter project called [Forest of Radgost](https://www.kickstarter.com). {{< /sidenote >}} 
 
 Such a result was surely a big win for the discerning client who chose to work with such a copywriter.
+
 But then again, maybe the success was achieved despite the copy. There's one way to know.
 
 ## 3) The copywriter uses words like smelling salts

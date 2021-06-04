@@ -24,6 +24,7 @@ publishDir = "public"
 
 [params.dropCap]
   enable = true
+  fontSize = "5.5em"
 
 [params]
     description = "Personal website of Srđan Mišić."
