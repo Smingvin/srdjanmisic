@@ -28,7 +28,6 @@ footer,
     display: inline-block;
     margin: 0;
     padding-right: .2rem;
-    text-transform: lowercase;
 
     &:hover,
     &:focus {
@@ -79,8 +78,7 @@ footer {
   padding-bottom: 1.5em;
 
   a {
-    margin: 0 0.1em;
-    font-size: 1.6em;
+    margin: 0 0.1em; font-size: 1.6em;
 
     &:hover {
       @include transition(all .2s ease-out);

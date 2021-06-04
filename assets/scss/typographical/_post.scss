@@ -275,11 +275,6 @@
   display: none;
 }
 
-.small-caps, .post-content > p:first-of-type::first-line {
-  font-variant: small-caps;
-  text-transform: lowercase;
-  letter-spacing: 0.01em;
-}
 
 .post-title, .post .post-title, .catalogue-title {
   font-weight: 800;
@@ -320,3 +315,4 @@
     display: none;
   }
 }
+
