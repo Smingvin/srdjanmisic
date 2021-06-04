@@ -6,7 +6,6 @@ enableEmoji = true
 footnotereturnlinkcontents = "↩"
 publishDir = "public"
 
-
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
 
@@ -31,3 +30,9 @@ publishDir = "public"
     footer = "Get in touch: supersrdjan (at) gmail.com"
     custom_css = ["css/theme-override.css"]
     accentColour = "#9be5aa"
+    fontUrl = "https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=IBM+Plex+Sans:wght@400;700&family=IBM+Plex+Serif:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Literata&display=swap"
+
+    SerifFont = "IBM Plex Serif"
+    SecondarySerifFont = "IBM Plex Serif"
+    SansSerifFont = "IBM Plex Sans"
+    MonospaceFont = "IBM Plex Mono"
