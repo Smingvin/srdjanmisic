@@ -10,7 +10,7 @@ subtitle: Most of us don't know what we're doing.
 
 Imagine if a loved one had to be cut open, and you had no other choice but send for the guy who trimmed your sideburns the day before. If the barber was busy, you’d send for the grinning butcher with the bloody apron. 
 
-Awful risk either way, but that's just how it was if you needed a surgeon in the middle ages. It's also pretty much how it is if you need to hire a copywriter today.
+Awful risk either way, but that's just how it was if you needed a surgeon back in the middle ages. It's also pretty much how it is today if you need to hire a copywriter.
 
 Anyone, regardless of skill or experience, can call themself a copywriter. Finding a competent one among them is like searching for a decent surgeon among butchers and barbers.
 
@@ -25,11 +25,11 @@ Here's how.
 
 ## 1) Copywriter has some sort of peer approval
 
-Barber-surgeons operated in dim backrooms, muffling their patients’ screams with bandages. Modern-day surgeons ply their trade openly in well-lit operating theaters. Spectators observe them through a looking glass.
+Barber-surgeons operated in dim backrooms, muffling their patients’ screams with bandages. Modern-day surgeons ply their trade openly in well-lit operating theaters with spectators observing them through a looking glass.
 
-Likewise, copywriters who know their stuff work in the open. They seek out feedback from peers at the pinnacle of their profession -- the A-listers.
+Likewise, copywriters who know their stuff seek out spectators. They welcome feedback from peers at the pinnacle of their profession -- the A-listers.
 
-For example, here’s how Amazon best-selling author Kevin Rogers (student of Gary Halbert’s protege John Carlton) and his panel of hotshot writers critiqued a Facebook ad written by your candidate copywriter: 
+One such A-lister is Amazon best-selling author Kevin Rogers (student of Gary Halbert’s protege John Carlton). Here's how Kevin and his panel of hotshot writers critiqued a Facebook ad written by a copywriter you might consider hiring:
 
 > ![](/images/rogers.png)
 >
