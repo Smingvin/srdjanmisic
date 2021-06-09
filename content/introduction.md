@@ -3,8 +3,6 @@ title: Good luck finding a copywriter in these dark times
 author: Srđan
 date: '2012-04-23'
 categories:
-  - Bullhorn
-  - Example
 slug: hacker-with-horn
 subtitle: It’s chaos out there — mobs of hungry freelancers are waving and yelling at you, trying to get hired. But actually finding a competent copywriter among them? It’s like searching for a decent surgeon among butchers and barbers.
 ---

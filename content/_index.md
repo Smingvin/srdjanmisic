@@ -3,8 +3,7 @@ title: Good luck finding a copywriter in these dark times
 author: Srđan /surgeon/ Mišić
 date: '2021-05'
 categories:
-  - Bullhorn
-  - Example
+  - Blabla
 subtitle: Most of us don't know what we're doing.
 ---
 

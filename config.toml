@@ -10,16 +10,13 @@ publishDir = "public"
     post = "/post/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "Categories"
-    url = "/categories/"
-    weight = 1
-[[menu.main]]
     name = "Tags"
     url = "/tags/"
     weight = 2
-[[menu.feed]]
-    name = "Subscribe"
-    url = "/index.xml"
+[[menu.main]]
+    name = "Posts"
+    url = "/post/"
+    weight = 1
 
 
 [params.dropCap]
