@@ -35,8 +35,9 @@
 
   &-line {
     @include transition(all .3s ease-out);
-    border-top: .2rem solid $accent-color;
-    display: block;
+    background: url("/images/sketch-line.png") bottom left no-repeat;
+    background-size: 100% 0.5em;
+    padding-bottom: 3px;
     width: 2rem;
   }
 }

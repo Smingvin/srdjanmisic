@@ -135,14 +135,6 @@
     font-size: 1em;
   }
   
-  a {
-    &:after {
-      display: none;
-    }
-    &:hover {
-      text-decoration: none;
-    }
-  }
 
   img {
     max-width: 100%;
@@ -300,11 +292,11 @@
 
 .post-content {
   a {
-    background: none;
-
+    background: url("/images/sketch-line.png") bottom left no-repeat;
+    background-size: 100% 0.25em;
+    padding-bottom: 3px;
     &::after {
       position: relative;
-      content: "\FEFF°";
       font-size: 90%;
       top: -0.10em;
       color: $code-color;

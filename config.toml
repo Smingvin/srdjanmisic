@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Srđan Mišić"
+title = "Srđan /surgeon/ Mišić"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 enableEmoji = true
 footnotereturnlinkcontents = "↩"

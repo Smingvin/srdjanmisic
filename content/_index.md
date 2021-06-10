@@ -7,9 +7,9 @@ categories:
 subtitle: Most of us don't know what we're doing.
 ---
 
-Imagine if a loved one had to be cut open, and you had no other choice but send for the guy who trimmed your sideburns the day before. If the barber was busy, you’d send for the grinning butcher with the bloody apron. 
+Imagine if a loved one had to be cut open, and you had no other choice but send for the guy who trimmed your sideburns the day before. If the barber was busy, you’d send for the grinning butcher with the [bloody apron.](https://www.google.com) 
 
-Awful risk either way, but that's just how it was if you needed a surgeon back in the middle ages. It's also pretty much how it is today if you need to hire a copywriter.
+Awful risk either way, but that's just how it was if you [needed a surgeon](https://www.google.com) back in the middle ages. It's also pretty much how it is today if you need to hire a copywriter.
 
 Anyone, regardless of skill or experience, can call themself a copywriter. Finding a competent one among them is like searching for a decent surgeon among butchers and barbers.
 
@@ -32,7 +32,7 @@ One such A-lister is Amazon best-selling author Kevin Rogers (student of Gary Ha
 
 > ![](/images/rogers.png)
 >
-> I love the way you phrased these things in ways I haven’t heard before but I knew exactly what you meant. This is gold . . . I’m impressed with the copy.
+> **I love the way you phrased these things in ways I haven’t heard before but I knew exactly what you meant. This is gold . . . I’m impressed with the copy.**
 >
 >  – Kevin Rogers,  
 > Author of 60-second Sales Hook and founder of Copy Chief
@@ -40,7 +40,7 @@ One such A-lister is Amazon best-selling author Kevin Rogers (student of Gary Ha
 >
 > ![](/images/mazza.png)
 >
-> I love it… such good copy, as soon as people get into it, they’re gonna be hooked.
+> **I love it… such good copy, as soon as people get into it, they’re gonna be hooked.**
 >
 > — Rachel Mazza,  
 > DR copywriter and host of The Business of Writing podcast

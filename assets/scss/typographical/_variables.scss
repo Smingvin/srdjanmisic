@@ -69,10 +69,13 @@ $fa-font-path: "/fonts";
 }
 
 @mixin accented-background {
-  outline: none;
-  transition: all .2s ease-out;
-  background: linear-gradient($accent-color, $accent-color);
-  background-size: 100% .2em;
-  background-repeat: no-repeat;
-  background-position: left 0 bottom 0;
+  background: url("/images/sketch-line.png") bottom left no-repeat;
+  background-size: 100% 0.25em;
+  padding-bottom: 3px;
+  &::after {
+    position: relative;
+    font-size: 90%;
+    top: -0.10em;
+    color: $code-color;
+    }
 }

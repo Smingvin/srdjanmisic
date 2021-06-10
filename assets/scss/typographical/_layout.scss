@@ -18,7 +18,7 @@ footer,
   overflow: auto;
 
   &-container {
-    margin: 1rem auto;
+    margin: 0.5rem auto;
     position: relative;
     text-align: center;
   }
@@ -28,6 +28,9 @@ footer,
     display: inline-block;
     margin: 0;
     padding-right: .2rem;
+    font-family: $monospaced;
+    transform: rotate(-4.9deg); 
+    font-size: 1em;
 
     &:hover,
     &:focus {
@@ -59,12 +62,12 @@ footer,
   }
 
   a {
-    font-family: $sans-serif;
+    font-family: $monospaced;
   }
 }
 
 footer {
-  font-family: $serif-secondary;
+  font-family: $monospaced;
   padding: 2rem 0;
   text-align: center;
 
