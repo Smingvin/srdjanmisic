@@ -9,16 +9,6 @@ publishDir = "public"
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
 
-[[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 2
-[[menu.main]]
-    name = "Posts"
-    url = "/post/"
-    weight = 1
-
-
 [params.dropCap]
   enable = true
   fontSize = "5.5em"

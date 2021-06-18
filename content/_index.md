@@ -7,9 +7,9 @@ categories:
 subtitle: Most of us don't know what we're doing.
 ---
 
-Imagine if a loved one had to be cut open, and you had no other choice but send for the guy who trimmed your sideburns the day before. If the barber was busy, you’d send for the grinning butcher with the [bloody apron.](https://www.google.com) 
+Imagine if a loved one had to be cut open, and you had no other choice but send for the guy who trimmed your sideburns the day before. If the barber was busy, you’d send for the grinning butcher with the bloody apron.
 
-Awful risk either way, but that's just how it was if you [needed a surgeon](https://www.google.com) back in the middle ages. It's also pretty much how it is today if you need to hire a copywriter.
+Awful risk either way, but that's just how it was if you needed a surgeon back in the middle ages. It's also pretty much how it is today if you need to hire a copywriter.
 
 Anyone, regardless of skill or experience, can call themself a copywriter. Finding a competent one among them is like searching for a decent surgeon among butchers and barbers.
 
@@ -74,7 +74,7 @@ All that said, you also need to make sure that...
 
 ## 4) The writer doesn’t degrade your brand like a snake-oil salesman
 
-A competent copywriter is a partner who simplifies, sharpens and enhances your message, magnifying the impact your business has on people’s lives.
+A competent copywriter is a partner who simplifies, sharpens and enhances your message so that it can live up to your products' full potential.
 
 To accomplish that, the copywriter relies on an arsenal of persuasion techniques, using them as sharp operating instruments.
 

@@ -1,0 +1,12 @@
+Da vratis menu
+
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+[[menu.main]]
+    name = "Posts"
+    url = "/post/"
+    weight = 1
+
+
